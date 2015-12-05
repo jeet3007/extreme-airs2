@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 node_modules/
+=======
+_site/
+.sass-cache/
+>>>>>>> 4f031fb057e3d19f6411cbb8e45ba331cbc65bd0
